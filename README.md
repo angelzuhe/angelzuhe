@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angelzuhe W:-)</h1>
+<h1 align="center">Hi 👋, I'm Angelzuhe w:-)</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelzuhe&label=Profile%20views&color=0e75b6&style=flat" alt="angelzuhe" /> </p>
