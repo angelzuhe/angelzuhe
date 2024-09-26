@@ -12,3 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+´´´
+#include <stdio.h>
+int main(){
+  printf("Hola mundo!");
+
+return 0;
+}
+´´´
